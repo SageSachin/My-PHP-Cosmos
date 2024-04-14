@@ -11,10 +11,10 @@ Explore the `php-basics` folder for fundamental PHP concepts like:
 - `functions`
 
 For intermediate topics, check out the `php-database-codes` folder which includes:
-- Array manipulation
-- Form processing
-- File Handling
-- Database interaction with MySQLi
+- `Array manipulation`
+- `Form processing`
+- `File Handling`
+- `Database interaction with MySQLi`
 
 Feel free to experiment with the code samples to enhance your PHP skills!
 

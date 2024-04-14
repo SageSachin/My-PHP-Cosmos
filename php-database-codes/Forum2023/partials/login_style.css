@@ -1,0 +1,41 @@
+.container {
+    display: inline-block;
+    /* border: 2px solid green; */
+    margin-left: 32.5%;
+    margin-right: 5%;
+    width: 35%;
+    padding: 30px;
+
+    background-color: white;
+    border-radius: 25px;
+    margin-top: 30px;
+
+    box-shadow: 10px 10px 50px lightslategray;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.btn {
+    width: 100%;
+}
+
+.backlog {
+    color: #000000;
+}
+
+p {
+    text-align: center;
+}
+
+.heading {
+    display: none;
+}
+
+.footer_login {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

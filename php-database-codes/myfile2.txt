@@ -1,0 +1,1 @@
+This is a txt file to demonstarte how write operation works on php.This is another content.

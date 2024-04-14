@@ -1,0 +1,75 @@
+.container {
+    position: relative;
+    height: 93vh;
+    display: inline-block;
+    margin-left: 32%;
+    margin-right: 5%;
+    width: auto;
+    padding: 4vh;
+
+    background-color: white;
+    border-radius: 3.4vh;
+
+    box-shadow: 1.3vh 1.3vh 6.9vh lightslategray;
+}
+
+.form-container {
+    display: inline-block;
+    height: 1px;
+    width: 480px;
+    /* overflow-y: scroll; */
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.side {
+    display: inline-block;
+    width: 45%;
+}
+
+.side2 {
+    display: inline-block;
+    width: 50%;
+    margin-left: 15px;
+}
+
+.btn {
+
+    width: 100%;
+}
+
+.signup {
+    font-size: 4.5vh;
+    text-align: center;
+    color: #000000;
+}
+
+.agal {
+    display: inline-block;
+    width: 45%;
+}
+
+.bagal {
+    display: inline-block;
+    width: 50%;
+    margin-left: 15px;
+}
+
+.already {
+    width: 70%;
+    margin-left: 29%;
+    display: inline-block;
+    margin-top: 3.5vh;
+}
+
+.heading {
+    display: none;
+}
+
+.footer_signup {
+    position: relative;
+    margin-top: 32px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
